@@ -20,3 +20,18 @@
 - Implementujte unit testy pro tuto èást systému.
 
 Jako usecase používání Blogu mùžete využít pøedpøipravenou tøídu Main.
+
+##### Hint: Doporuèuji vytvoøit tyto soubory
+BlogAccountBase
+AdminAccount
+UserAccount
+IBlog
+Blog
+Comment
+IEditableComponent
+Editor
+Post
+enum PostState
+Topic
+Warning
+
