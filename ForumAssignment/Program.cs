@@ -29,6 +29,7 @@ namespace ForumAssignment
 
             blog.DisplayTopics();
 
+
             // 1.4 WRITING NEW POST
             account.WriteNewPost("Why Angular JS", "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.\n");
             account.WriteNewPost("Stairway to React", "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.\n");
