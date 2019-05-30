@@ -43,10 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminAccount.cs" />
+    <Compile Include="Blog.cs" />
+    <Compile Include="BlogAccountBase.cs" />
+    <Compile Include="Comment.cs" />
     <Compile Include="Dashboard.cs" />
+    <Compile Include="IEditableComponent.cs" />
+    <Compile Include="Editor.cs" />
+    <Compile Include="IBlogInterface.cs" />
     <Compile Include="IDisplayableComponent.cs" />
+    <Compile Include="Post.cs" />
+    <Compile Include="PostState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Topic.cs" />
+    <Compile Include="UserAccount.cs" />
+    <Compile Include="Warning.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
